@@ -1,0 +1,4 @@
+__pycache__/
+.vscode/
+qc.code-workspace
+config.json
